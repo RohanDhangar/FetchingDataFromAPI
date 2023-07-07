@@ -1,6 +1,7 @@
 .table-container {
   width: 80%;
   margin: 0 auto;
+  overflow-x: auto;
 }
 
 .heading{
@@ -21,4 +22,10 @@
 
 .table th {
   background-color: #f2f2f2;
+}
+
+@media (max-width: 600px) {
+  .table-container {
+    width: 100%;
+  }
 }
