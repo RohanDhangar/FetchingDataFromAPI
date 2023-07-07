@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/FetchingDataFromAPI/static/css/main.64b2305e.css",
+    "main.js": "/FetchingDataFromAPI/static/js/main.dd5c1be2.js",
+    "index.html": "/FetchingDataFromAPI/index.html",
+    "main.64b2305e.css.map": "/FetchingDataFromAPI/static/css/main.64b2305e.css.map",
+    "main.dd5c1be2.js.map": "/FetchingDataFromAPI/static/js/main.dd5c1be2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.64b2305e.css",
+    "static/js/main.dd5c1be2.js"
+  ]
+}
